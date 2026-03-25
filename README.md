@@ -1,16 +1,38 @@
-## Hi there 👋
+<img src="hyena-banner.jpg">
 
-<!--
-**jjacques-ui/jjacques-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey there world! I'm ₊⟡João⊹ ₊ ݁.
 
-Here are some ideas to get you started:
+  ★ Software Development student (ADS)  
+  ★ Aspiring Front-end Developer focused on UI/UX  
+  ★ Currently learning HTML, CSS, JavaScript  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me *ੈ✩‧₊˚
+
+I'm focused on building modern, responsive and user-friendly interfaces<br>
+I have a strong interest in UI design, Front-end development and creative coding and aim to combine design with development
+
+
+## Technologies .✦ ݁˖
+
+  <div padding-inline="20">
+    <img src="HTML.svg" width="40"  hspace="20"/>
+    <img src="CSS.svg" width="40" hspace="20"/>
+    <img src="JS.svg" width="90"/>
+    <img src="Figma.svg" width="40" hspace="25"/>
+  </div>
+  
+
+## Currently Learning⟡ ݁ . ⊹ ₊ ݁.
+- JavaScript
+- UI Design (Figma)
+- Git & GitHub
+- React (Soon)
+
+## Goals ⋆⭒˚.⋆
+- Build real-world projects  
+- Improve UI/UX skills  
+- Get my first opportunity in tech development
+
+<p align="center">
+  <img src="mimikyu.gif" width="260"/>
+</p>
